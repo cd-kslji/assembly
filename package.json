@@ -1,0 +1,23 @@
+{
+  "name": "clickdee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "external.api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cd-kslji/assembly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cd-kslji/assembly/issues"
+  },
+  "homepage": "https://github.com/cd-kslji/assembly#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
